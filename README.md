@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)
 ![Architecture](https://img.shields.io/badge/Architecture-LEGv8%20%2F%20ARMv8-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A cycle-accurate **LEGv8 (ARMv8 subset) Single-Cycle CPU Simulator** implemented in Python. 
 
